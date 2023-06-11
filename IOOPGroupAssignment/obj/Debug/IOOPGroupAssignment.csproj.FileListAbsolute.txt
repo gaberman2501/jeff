@@ -1,0 +1,60 @@
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\bin\Debug\databasetest.mdf
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\bin\Debug\databasetest_log.ldf
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe.config
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.pdb
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.exe
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.pdb
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LoginForm.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.AdminHome.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LecturerHome.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormDeleteStu.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormEnrollStu.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormRegisterStu.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateLecProfile.resources
+C:\Users\LENOVO\OneDrive - Asia Pacific University\IOOPGroupAssignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateStuEnrolment.resources
+C:\IOOP Assignment\IOOPGroupAssignment\bin\Debug\databasetest.mdf
+C:\IOOP Assignment\IOOPGroupAssignment\bin\Debug\databasetest_log.ldf
+C:\IOOP Assignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe.config
+C:\IOOP Assignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe
+C:\IOOP Assignment\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.pdb
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.AssemblyReference.cache
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.SuggestedBindingRedirects.cache
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormDeleteStu.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormEnrollStu.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormRegisterStu.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateLecProfile.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateStuEnrolment.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LecturerHome.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LoginForm.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.AdminHome.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.Properties.Resources.resources
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.GenerateResource.cache
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.CoreCompileInputs.cache
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.exe
+C:\IOOP Assignment\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.pdb
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.AssemblyReference.cache
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.SuggestedBindingRedirects.cache
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormDeleteStu.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormEnrollStu.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormRegisterStu.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateLecProfile.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.FormUpdateStuEnrolment.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LecturerHome.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.LoginForm.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.AdminHome.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.Properties.Resources.resources
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.GenerateResource.cache
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.csproj.CoreCompileInputs.cache
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.exe
+C:\IOOPGroupAssignment\obj\Debug\IOOPGroupAssignment.pdb
+C:\IOOPGroupAssignment\bin\Debug\databasetest.mdf
+C:\IOOPGroupAssignment\bin\Debug\databasetest_log.ldf
+C:\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe.config
+C:\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.exe
+C:\IOOPGroupAssignment\bin\Debug\IOOPGroupAssignment.pdb
